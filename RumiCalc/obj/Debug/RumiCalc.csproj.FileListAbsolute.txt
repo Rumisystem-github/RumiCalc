@@ -1,0 +1,11 @@
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\bin\Debug\RumiCalc.exe.config
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\bin\Debug\RumiCalc.exe
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\bin\Debug\RumiCalc.pdb
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.csproj.AssemblyReference.cache
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.Form1.resources
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.Properties.Resources.resources
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.csproj.GenerateResource.cache
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.csproj.CoreCompileInputs.cache
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.exe
+C:\Users\Rumisan\source\repos\RumiCalc\RumiCalc\obj\Debug\RumiCalc.pdb
